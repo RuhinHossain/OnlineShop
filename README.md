@@ -1,1 +1,1 @@
-# PythonDJangoProject
+# OnlineShopingProject
